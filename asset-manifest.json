@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/onreact/static/css/main.669f255f.chunk.css",
+    "main.js": "/onreact/static/js/main.6afbe089.chunk.js",
+    "main.js.map": "/onreact/static/js/main.6afbe089.chunk.js.map",
+    "runtime-main.js": "/onreact/static/js/runtime-main.91b6179b.js",
+    "runtime-main.js.map": "/onreact/static/js/runtime-main.91b6179b.js.map",
+    "static/css/2.9ddb28ea.chunk.css": "/onreact/static/css/2.9ddb28ea.chunk.css",
+    "static/js/2.78dc4526.chunk.js": "/onreact/static/js/2.78dc4526.chunk.js",
+    "static/js/2.78dc4526.chunk.js.map": "/onreact/static/js/2.78dc4526.chunk.js.map",
+    "index.html": "/onreact/index.html",
+    "precache-manifest.13c42526d4a0cb5276a2d715a7fe154e.js": "/onreact/precache-manifest.13c42526d4a0cb5276a2d715a7fe154e.js",
+    "service-worker.js": "/onreact/service-worker.js",
+    "static/css/2.9ddb28ea.chunk.css.map": "/onreact/static/css/2.9ddb28ea.chunk.css.map",
+    "static/css/main.669f255f.chunk.css.map": "/onreact/static/css/main.669f255f.chunk.css.map",
+    "static/js/2.78dc4526.chunk.js.LICENSE.txt": "/onreact/static/js/2.78dc4526.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b6179b.js",
+    "static/css/2.9ddb28ea.chunk.css",
+    "static/js/2.78dc4526.chunk.js",
+    "static/css/main.669f255f.chunk.css",
+    "static/js/main.6afbe089.chunk.js"
+  ]
+}
